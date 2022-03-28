@@ -1,0 +1,22 @@
+
+.card{
+    /* width: 100px; */
+}
+
+.project-details{
+    /* position: relative; */
+}
+
+.detail-bar{
+    background-color: white;
+    position: relative;
+    top: -120px;
+    /* z-index: 1; */
+    /* margin-top: -150px !important; */
+}
+.detail-bar p{
+    padding: 3% 5%;
+}
+.detail-body{
+    /* position: absolute; */
+}

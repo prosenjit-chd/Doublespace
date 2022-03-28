@@ -1,0 +1,66 @@
+.top-margin{
+    margin-top: 90px !important;
+}
+
+.first-sec{
+    margin-top: 30px;
+}
+.first-sec-left img{
+    width: 100%;
+    height: 480px;
+}
+
+.first-sec-right img{
+    width: 100%;
+    height: 228px;
+}
+
+.second-sec{
+    margin-top: 30px;
+}
+
+.second-sec-left img{
+    width: 100%;
+    height: 350px;
+}
+
+.second-sec-right img{
+    width: 100%;
+    height: 350px;
+}
+
+.third-sec{
+    margin-top: 30px;
+}
+
+.tranding{
+    margin-bottom: 10px;
+}
+
+.tranding .third-sec-right img{
+    width: 400px;
+}
+
+.third-sec-right-text{
+    margin-left: 10px;
+}
+.third-sec-left img{
+    margin-top: 8px;
+}
+
+.blog{
+    position: relative;
+    cursor: pointer;
+}
+
+.blog-detail{
+    box-shadow: inset 0 -85px 18px 0px hsl(0deg 0% 0% / 55%);
+    position: absolute;
+    /* height: 100px; */
+    /* background-color: whitesmoke; */
+    bottom: 0px;
+    left: 0px;
+    padding: 1px 5px;
+    color: white;
+    width: 100%;
+}

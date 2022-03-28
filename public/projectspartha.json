@@ -1,0 +1,321 @@
+[
+    {
+        "id": 1,
+        "title": "Anna Residence",
+        "client": "Selina Siddiqua Anna",
+        "address": "Mirpur DOHS",
+        "flatSize": "2550 sft",
+        "description": "Lorem",
+        "coverphoto": "https://i.ibb.co/ncmtb1w/anna-residence-23.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/2hmpjYW/anna-residence-14.jpg",
+            "https://i.ibb.co/qd094Lw/anna-residence-24.jpg",
+            "https://i.ibb.co/ngZ2Xcc/anna-residence-22.jpg",
+            "https://i.ibb.co/k9SZGJy/anna-residence-21.jpg",
+            "https://i.ibb.co/HKd8vhJ/anna-residence-20.jpg",
+            "https://i.ibb.co/D9vxBFq/anna-residence-19.jpg",
+            "https://i.ibb.co/dM1Njky/anna-residence-18.jpg",
+            "https://i.ibb.co/qnYGDg1/anna-residence-17.jpg",
+            "https://i.ibb.co/qnYGDg1/anna-residence-17.jpg",
+            "https://i.ibb.co/9cvmVrb/anna-residence-16.jpg",
+            "https://i.ibb.co/6vh6NZ0/anna-residence-15.jpg",
+            "https://i.ibb.co/JB6CK6p/anna-residence-13.jpg",
+            "https://i.ibb.co/Vq2WQcn/anna-residence-12.jpg",
+            "https://i.ibb.co/VVBsRDG/anna-residence-11.jpg",
+            "https://i.ibb.co/JvQMT0h/anna-residence-10.jpg",
+            "https://i.ibb.co/jb8CZTf/anna-residence-9.jpg",
+            "https://i.ibb.co/VQxnnB0/anna-residence-8.jpg",
+            "https://i.ibb.co/xSG5vtz/anna-residence-7.jpg",
+            "https://i.ibb.co/m8RmryL/anna-residence-6.jpg",
+            "https://i.ibb.co/wSDMT3P/anna-residence-5.jpg",
+            "https://i.ibb.co/1Xs5MLR/anna-residence-4.jpg",
+            "https://i.ibb.co/tpVXxzN/anna-residence-3.jpg",
+            "https://i.ibb.co/PG1XdtQ/anna-residence-1.jpg",
+            "https://i.ibb.co/yBQ52wz/anna-residence-2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Anvil architectural office",
+        "client": "ANVIL PROPERTY MANAGEMENT LTD",
+        "address": "YAKUB TOWER, Chittagong",
+        "flatSize": "6350 sft",
+        "description": "Lorem2",
+        "coverphoto": "https://i.ibb.co/nM9cMkx/anvil-architectural-office-4.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/82F135f/anvil-architectural-office-9.jpg",
+            "https://i.ibb.co/FDbpGN9/anvil-architectural-office-8.jpg",
+            "https://i.ibb.co/cCzJsZp/anvil-architectural-office-7.jpg",
+            "https://i.ibb.co/QMWVNF0/anvil-architectural-office-6.jpg",
+            "https://i.ibb.co/yNMhWyc/anvil-architectural-office-5.jpg",
+            "https://i.ibb.co/RNtzg72/anvil-architectural-office-3.jpg",
+            "https://i.ibb.co/LYPTtHz/anvil-architectural-office-1.jpg",
+            "https://i.ibb.co/BTz3FKX/anvil-architectural-office-2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Gulsan residence",
+        "client": "Mrs. Rehana Chowdhury",
+        "address": "Gulshan Avenue, Dhaka",
+        "flatSize": "2450 sft",
+        "description": "Lorem3",
+        "coverphoto":  "https://i.ibb.co/KmXpsQf/gulsan-residence-12.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/x8KhMYw/gulsan-residence-15.jpg",
+            "https://i.ibb.co/0h9XGmB/gulsan-residence-14.jpg",
+            "https://i.ibb.co/0nYKrn5/gulsan-residence-13.jpg",
+            "https://i.ibb.co/qFcXMPy/gulsan-residence-11.jpg",
+            "https://i.ibb.co/Bt8NgQZ/gulsan-residence-10.jpg",
+            "https://i.ibb.co/GRMsLKF/gulsan-residence-8.jpg",
+            "https://i.ibb.co/vY0mSjy/gulsan-residence-7.jpg",
+            "https://i.ibb.co/pr2RvY2/gulsan-residence-6.jpg",
+            "https://i.ibb.co/1mccHCK/gulsan-residence-5.jpg",
+            "https://i.ibb.co/tZBsHfk/gulsan-residence-4.jpg",
+            "https://i.ibb.co/9hXFnVn/gulsan-residence-3.jpg",
+            "https://i.ibb.co/R4L6frK/gulsan-residence-2.jpg",
+            "https://i.ibb.co/hWJXd3p/gulsan-residence-1.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Baridhara residence",
+        "client": "Md.NAZMUL HASAN",
+        "address": "Merun Badda, Dhaka",
+        "flatSize": "6520 sft",
+        "description": "Lorem4",
+        "coverphoto": "https://i.ibb.co/vH5Zy0L/baridhara-residence-8.jpg",
+        "imgsrc": [           
+            "https://i.ibb.co/yqRdGr4/baridhara-residence-18.jpg",
+            "https://i.ibb.co/d26YJs1/baridhara-residence-17.jpg",
+            "https://i.ibb.co/9pk2V3h/baridhara-residence-16.jpg",
+            "https://i.ibb.co/s3rFhsX/baridhara-residence-15.jpg",
+            "https://i.ibb.co/dBnF3F3/baridhara-residence-14.jpg",
+            "https://i.ibb.co/DV2Ly5Q/baridhara-residence-13.jpg",
+            "https://i.ibb.co/9N2nqGR/baridhara-residence-12.jpg",
+            "https://i.ibb.co/N19X5kZ/baridhara-residence-11.jpg",
+            "https://i.ibb.co/TtgKtyk/baridhara-residence-10.jpg",
+            "https://i.ibb.co/fCRQd1f/baridhara-residence-9.jpg",
+            "https://i.ibb.co/dW5T9nf/baridhara-residence-6.jpg",
+            "https://i.ibb.co/W6hDhBd/baridhara-residence-5.jpg",
+            "https://i.ibb.co/RCmvHHn/baridhara-residence-4.jpg",
+            "https://i.ibb.co/82JnWQZ/baridhara-residence-3.jpg",
+            "https://i.ibb.co/vhMJd3p/baridhara-residence-1.jpg",
+            "https://i.ibb.co/MPWMzbJ/baridhara-residence-2.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Nikunjo residence",
+        "client": "Ismail Hossain ",
+        "address": "Nikunjo 1, Dhaka",
+        "flatSize": "2100 sft",
+        "description": "Lorem5",
+        "coverphoto": "https://i.ibb.co/34r16mr/nikunjo-residence-4.jpg",
+        "imgsrc": [          
+            "https://i.ibb.co/hZkf5nW/nikunjo-residence-3.jpg",
+            "https://i.ibb.co/gdSjc1r/nikunjo-residence-2.jpg",
+            "https://i.ibb.co/F6ysCMT/nikunjo-residence-1.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Mohamadpur residence",
+        "client": "Jahanara Begam Residence",
+        "address": "Mohammadpur, Dhaka",
+        "flatSize": "1150 sft",
+        "description": "Lorem6",
+        "coverphoto": "https://i.ibb.co/7CvmqHy/mohamadpur-residence-19.jpg",
+        "imgsrc": [          
+            "https://i.ibb.co/hYCfBkp/mohamadpur-residence-18.jpg",
+            "https://i.ibb.co/CW4yYGY/mohamadpur-residence-17.jpg",
+            "https://i.ibb.co/HqcyrSL/mohamadpur-residence-16.jpg",
+            "https://i.ibb.co/Ths7vsY/mohamadpur-residence-15.jpg",
+            "https://i.ibb.co/QNybzGG/mohamadpur-residence-14.jpg",
+            "https://i.ibb.co/zXKThPT/mohamadpur-residence-13.jpg",
+            "https://i.ibb.co/JsfDq21/mohamadpur-residence-12.jpg",
+            "https://i.ibb.co/1GHkG3f/mohamadpur-residence-11.jpg",
+            "https://i.ibb.co/yXTkQ9s/mohamadpur-residence-10.jpg",
+            "https://i.ibb.co/yRMV8yx/mohamadpur-residence-9.jpg",
+            "https://i.ibb.co/yP59mSV/mohamadpur-residence-8.jpg",
+            "https://i.ibb.co/5FYmP6g/mohamadpur-residence-7.jpg",
+            "https://i.ibb.co/0J0SZHS/mohamadpur-residence-6.jpg",
+            "https://i.ibb.co/jZz3TyZ/mohamadpur-residence-5.jpg",
+            "https://i.ibb.co/StZHmpM/mohamadpur-residence-3.jpg",
+            "https://i.ibb.co/k544bN8/mohamadpur-residence-4.jpg",
+            "https://i.ibb.co/zshpwjZ/mohamadpur-residence-1.jpg",
+            "https://i.ibb.co/tKw3cdc/mohamadpur-residence-2.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Diganto residence",
+        "client": "Md. Roni Chowdhary",
+        "address": "Poribag, Diganto Tower, Dhaka",
+        "flatSize": "2250  sft",
+        "description": "Lorem7",
+        "coverphoto": "https://i.ibb.co/xCG83JM/diganto-residence-2.jpg",
+        "imgsrc": [            
+            "https://i.ibb.co/0mnyXdR/diganto-residence-6.jpg",
+            "https://i.ibb.co/zVCZmJk/diganto-residence-5.jpg",
+            "https://i.ibb.co/W0ypJDT/diganto-residence-4.jpg",
+            "https://i.ibb.co/8mMhLvv/diganto-residence-3.jpg",
+            "https://i.ibb.co/1rJs5nW/diganto-residence-1.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Mohakhali DOHS",
+        "client": "Ms. Mishu",
+        "address": "Mohakhali DOHS, Dhaka",
+        "flatSize": "2250  sft",
+        "description": "Lorem8",
+        "coverphoto": "https://i.ibb.co/M7zQnWt/Mohakhali-DOHS-9.jpg",
+        "imgsrc": [           
+            "https://i.ibb.co/vLwj2Zr/Mohakhali-DOHS-8.jpg",
+            "https://i.ibb.co/8cMdGpM/Mohakhali-DOHS-7.jpg",
+            "https://i.ibb.co/0BzrMbs/Mohakhali-DOHS-6.jpg",
+            "https://i.ibb.co/5LmVXMv/Mohakhali-DOHS-5.jpg",
+            "https://i.ibb.co/dJyB7N6/Mohakhali-DOHS-4.jpg",
+            "https://i.ibb.co/4MLJYf8/Mohakhali-DOHS-3.jpg",
+            "https://i.ibb.co/5jNLS87/Mohakhali-DOHS-1.jpg",
+            "https://i.ibb.co/cN9BcwS/Mohakhali-DOHS-2.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Diganto residence",
+        "client": "Md. Roni Chowdhary",
+        "address": "Poribag, Diganto Tower, Dhaka",
+        "flatSize": "2250  sft",
+        "description": "Lorem9",
+        "coverphoto": "https://i.ibb.co/gghqb0k/roni-residence-3.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/gghqb0k/roni-residence-3.jpg",
+            "https://i.ibb.co/gVBr6Wx/roni-residence-1.jpg",
+            "https://i.ibb.co/VYL57CP/roni-residence-2.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Doublespace office",
+        "client": "Mr. Partha Balaji",
+        "address": "House # 91/C, Road # 7/A Dhanmondi, Dhaka-1209",
+        "flatSize": "2550  sft",
+        "description": "Lorem10",
+        "coverphoto": "https://i.ibb.co/yBZhvw9/doublespace-office-2.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/yBZhvw9/doublespace-office-2.jpg",
+            "https://i.ibb.co/XVFpBT0/doublespace-office-1.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "EZMA office complex",
+        "client": "Mr.Monju Shaheb",
+        "address": "Matoial, Rayerbag, Dhaka",
+        "flatSize": "1850 sft",
+        "description": "Lorem11",
+        "coverphoto": "https://i.ibb.co/TvN15cN/120364891-500727457476956-3768363185975295886-n.jpg",
+        "imgsrc": [          
+            "https://i.ibb.co/k87pcww/120656488-500727404143628-8624555978602081419-n.jpg",
+            "https://i.ibb.co/ykh4qyh/120611057-500727500810285-5552603866381581870-n.jpg",
+            "https://i.ibb.co/b2DzN3q/120550686-500727384143630-4930766363647776479-n.jpg",
+            "https://i.ibb.co/qCyzNxc/120541487-500726784143690-6582457801792166890-n.jpg",
+            "https://i.ibb.co/NyptTx1/120540561-500727524143616-8066102404024216630-n.jpg",
+            "https://i.ibb.co/51Xkfc3/120505959-500727367476965-6773388081091137895-n.jpg",
+            "https://i.ibb.co/RSyXv7Q/120434335-500727430810292-1753277927070046067-n.jpg",
+            "https://i.ibb.co/RSyXv7Q/120434335-500727430810292-1753277927070046067-n.jpg",
+            "https://i.ibb.co/XLBDJ0G/120446780-500727480810287-4543687169220357470-n.jpg",
+            "https://i.ibb.co/XLDKZ84/120363393-500727327476969-2717953184072526595-n.jpg",
+            "https://i.ibb.co/cyqwXPg/120354630-500727347476967-3513188514662618256-n.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Gulsan residence",
+        "client": "Mrs. Rehana Chowdhury",
+        "address": "Gulshan Avenue, Dhaka",
+        "flatSize": "2450 sft",
+        "description": "This project located in the greener gulshan area beside the stunning landscape of Gulshan Club Field. It's also located in a developed zone in dhaka city with galleries and cultural venue surrounded. To attract new generations having their own taste of luxury. The project is built from east to west along the field site which brings it a distinguished green view. Full-view windows are applied on this project, allowing for more natural light. Living room represents the heart of apartment, the collection of furniture creates a different lifestyle with good eyes. Warm and welcome dining area invites guests to enjoy the space.",
+        "coverphoto": "https://i.ibb.co/0Vd8McM/gulsan-residence-6.jpg",
+        "imgsrc": [           
+            "https://i.ibb.co/F6pmbZ3/gulsan-residence-9.jpg",
+            "https://i.ibb.co/JF7c6Nd/gulsan-residence-8.jpg",
+            "https://i.ibb.co/jRVHvqg/gulsan-residence-7.jpg",
+            "https://i.ibb.co/yYPV4W6/gulsan-residence-5.jpg",
+            "https://i.ibb.co/7Kv33kt/gulsan-residence-4.jpg",
+            "https://i.ibb.co/58Rv95c/gulsan-residence-2.jpg",
+            "https://i.ibb.co/Cv7LYrG/gulsan-residence-3.jpg",
+            "https://i.ibb.co/5hzMVWH/gulsan-residence-1.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "MP residence",
+        "client": "Md. Biplab Dewan",
+        "address": "Poribag , Diganto Tower, Dhaka",
+        "flatSize": "2250 sft",
+        "description": "Lorem13",
+        "coverphoto": "https://i.ibb.co/H27mPVd/mps-residence-2.jpg",
+        "imgsrc": [           
+            "https://i.ibb.co/0n0D7CN/mps-residence-1.jpg",
+            "https://i.ibb.co/Cm9s1Ds/mps-residence-5.jpg",
+            "https://i.ibb.co/r5CFp3y/mps-residence-4.jpg",
+            "https://i.ibb.co/NNN2W8G/mps-residence-3.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Sharif residence",
+        "client": "Mr. Sharif Hossain",
+        "address": "Dhanmondi 15, Dhaka",
+        "flatSize": "1250 sft",
+        "description": "Lorem14",
+        "coverphoto": "https://i.ibb.co/h96sS3f/sharif-residence-2.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/h96sS3f/sharif-residence-2.jpg",
+            "https://i.ibb.co/QXKKCK9/sharif-residence-4.jpg",
+            "https://i.ibb.co/q0Mw5fp/sharif-residence-3.jpg",
+            "https://i.ibb.co/ZW2shC1/sharif-residence-1.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Nikunjo triplix house",
+        "client": "Md.Ismail Hossain",
+        "address": "Nikunjo 1, Dhaka",
+        "flatSize": "6750 sft",
+        "description": "Lorem15",
+        "coverphoto": "https://i.ibb.co/xjZNTK5/nikunjo-triplix-house-3.jpg",
+        "imgsrc": [           
+            "https://i.ibb.co/Y8Sg23w/nikunjo-triplix-house-12.jpg",
+            "https://i.ibb.co/SRR8nV1/nikunjo-triplix-house-11.jpg",
+            "https://i.ibb.co/wM2Hnnn/nikunjo-triplix-house-10.jpg",
+            "https://i.ibb.co/PtXZrdV/nikunjo-triplix-house-9.jpg",
+            "https://i.ibb.co/D1RksC8/nikunjo-triplix-house-8.jpg",
+            "https://i.ibb.co/VtCzVyb/nikunjo-triplix-house-4.jpg",
+            "https://i.ibb.co/xgMF77B/nikunjo-triplix-house-6.jpg",
+            "https://i.ibb.co/RPdpXFP/nikunjo-triplix-house-5.jpg",
+            "https://i.ibb.co/MgYfyqR/nikunjo-triplix-house-1.jpg",
+            "https://i.ibb.co/30dqg07/nikunjo-triplix-house-2.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Chowdhury house",
+        "client": "Prodip Kumar Chowdhury",
+        "address": "Nikunjo 1, Dhaka",
+        "flatSize": "6750 sft",
+        "description": "Lorem16",
+        "coverphoto": "https://i.ibb.co/G7QZxSM/120340427-500709297478772-2114152583086233493-n.jpg",
+        "imgsrc": [
+            "https://i.ibb.co/G7QZxSM/120340427-500709297478772-2114152583086233493-n.jpg",
+            "https://i.ibb.co/rfNHQC1/120510227-500709197478782-1853518298503686878-n.jpg",
+            "https://i.ibb.co/rvsqmNQ/120470612-500709177478784-4343805321797094461-n.jpg",
+            "https://i.ibb.co/4Rf67wL/120440660-500709370812098-4757454056859819529-n.jpg",
+            "https://i.ibb.co/mbz5T4W/120432236-500709367478765-2083876161204485017-n.jpg",
+            "https://i.ibb.co/MPDV6RX/120292223-500709300812105-3167605606024600876-n.jpg"
+        ]
+    }
+]
